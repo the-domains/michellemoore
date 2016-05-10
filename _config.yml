@@ -1,7 +1,7 @@
 name: michellemoore
 favicon: null
-layout_spectrum: 0.648650843417272
-typography_spectrum: 0.15653518005274236
+layout_spectrum: 0.75896
+typography_spectrum: 0.3428
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#304006'
     - '#7d9d21'
   brandStrength: 0.5
-  lightness: 0.5625
-  saturation: 0.375
+  lightness: 0.75
+  saturation: 0.8125
   rhythmicContrast: 0.5
 purpose: []
